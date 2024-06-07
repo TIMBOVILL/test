@@ -3,7 +3,6 @@ body {
     font-family: 'OpenSans', sans-serif;
     background-color: #1e1e1e;
     color: white;
-    overflow: hidden; /* Prevent scrolling */
     display: flex;
 }
 
